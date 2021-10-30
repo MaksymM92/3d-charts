@@ -1,0 +1,12 @@
+section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+
+  div {
+    border: 1px solid rgba(122, 122, 122, 0.42);
+    box-shadow: 0 3px 6px rgba(122, 122, 122, 0.12), 0 3px 6px rgba(122, 122, 122, 0.12);
+  }
+}
+
